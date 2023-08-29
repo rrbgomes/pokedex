@@ -10,3 +10,4 @@ Estudo para conecer mais sobre javascript, css e iteração com api
 Documentação [pokeApi](https://pokeapi.co/)
 Documentação [css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 Documentação [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+Documentação [http-server](https://www.npmjs.com/package/http-server)
